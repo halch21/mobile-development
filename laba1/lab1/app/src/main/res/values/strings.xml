@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="button">Бросить кубики!</string>
+    <string name="you">Вы</string>
+    <string name="messege">Брось кубики и набери 100 очков раньше соперника!</string>
+    <string name="othercube">0</string>
+    <string name="youcube">0</string>
+    <string name="computer">Компьютер</string>
+    <string name="win">Победа!</string>
+    <string name="win2">TODO</string>
+    <string name="lose">Вы проиграли!</string>
+    <string name="norm">Ничья!</string>
+    <string name="again">Сыграть еще!</string>
+</resources>
