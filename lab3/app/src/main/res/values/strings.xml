@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo</string>
+    <string name="btn_name">Сделать фото</string>
+    <string name="photo_desc">photo desc</string>
+</resources>
